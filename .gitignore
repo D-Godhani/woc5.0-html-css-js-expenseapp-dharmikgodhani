@@ -1,2 +1,3 @@
-mylogs.log
-contact.html
+/mylogs.log
+*.log
+/ignore
